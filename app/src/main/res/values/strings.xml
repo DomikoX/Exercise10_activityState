@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise10_activityState</string>
+    <string name="listener_implement_error">must implement ChangeTextListener</string>
+    <string name="item">New text:</string>
+    <string name="dialog_title">New Text</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_cancel">Nope!</string>
+    <string name="cancel">Canceled</string>
+</resources>
